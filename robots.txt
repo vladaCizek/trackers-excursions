@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://trackersexcursions.com/sitemap.xml
+Disallow:

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__docker-gateway__get_me",
+      "mcp__docker-gateway__create_repository",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
